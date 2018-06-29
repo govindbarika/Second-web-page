@@ -1,0 +1,1 @@
+This is about a web page which is contains header, footer, main body and right section developed using flotes.
